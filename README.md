@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1,caracol
-https://dtvott-akaws.akamaized.net/live_1035/DASH/stream_07/1679556839188_init.m4i
+https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWthd3MuYWthbWFpemVkLm5ldC9saXZlXzEwMzUvREFTSC9tYW5pZmVzdC5tcGQ=&key=NTkwZWFiNjgzM2Q0MzVmZjk0Y2M5YTVhZjkzYTQzMTk=&key2=NWU3M2ZiMDgzNThkYjYzNGRmYjkxOWQ4NTNjZWM0NmY=
